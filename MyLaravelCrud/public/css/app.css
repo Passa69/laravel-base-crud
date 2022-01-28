@@ -9,11 +9,11 @@ body footer {
   text-align: center;
 }
 
-body ul li {
-  margin: 10px 0;
+body a {
+  color: white;
 }
 
-body ul li a {
-  color: white;
+body ul li {
+  margin: 10px 0;
 }
 
