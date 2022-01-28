@@ -4,6 +4,11 @@ body {
   margin-left: 20px;
 }
 
+body header,
+body footer {
+  text-align: center;
+}
+
 body ul li {
   margin: 10px 0;
 }
