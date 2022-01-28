@@ -5,6 +5,6 @@
 
     <h4>{{ $comic -> title }}</h4>
     <span>{{ $comic -> author }}</span><br>
-    <span>Release: {{ $comic -> release_date }} - {{ $comic -> pages }}</span>
+    <span>Release: {{ $comic -> release_date }} - {{ $comic -> pages }} pagine</span>
     <hr>
 @endsection
