@@ -1,5 +1,16 @@
 body {
     background-color: purple;
     color: white;
-    text-align: center;
+    margin-left: 20px;
+
+    ul {
+
+        li {
+            margin: 10px 0;
+
+            a {
+                color: white;
+            }
+        }
+    }
 }
