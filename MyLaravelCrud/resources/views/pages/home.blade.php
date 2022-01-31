@@ -3,6 +3,10 @@
     
     <h2>Comics:</h2>
 
+    <h5>
+        <a href="{{ route('create') }}">ADD A COMIC</a>
+    </h5>
+
     <ul>
         @foreach ($comics as $comic)
             <li>

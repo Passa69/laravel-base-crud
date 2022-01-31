@@ -13,6 +13,10 @@ body a {
   color: white;
 }
 
+body input {
+  margin: 5px 20px;
+}
+
 body ul li {
   margin: 10px 0;
 }
